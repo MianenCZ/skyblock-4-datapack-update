@@ -5,7 +5,7 @@ Contains additional craft recipes for 1.17.1 blocks that are not obtainable anyw
 Feel free to suggest any changes or balances to issues tab.
 
 ## Download
-For downloading just get this pack as a .zip file and put it into you datapack folder (`%appdata%/.minecraft/saves/{WORLDNAME}/datapacks`)
+For downloading just get this pack as a .zip file, upzip it and put subdirectory `CraftingUpdates` into you datapack folder (`%appdata%/.minecraft/saves/{WORLDNAME}/datapacks`)
 
 ## Change log
 
