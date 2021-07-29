@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#S#",
+        "SMS",
+        "#S#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:cobblestone"
+        },
+        "S": {
+            "item": "minecraft:stone"
+        },
+        "M": {
+            "item": "minecraft:magma_block"
+        }
+    },
+    "result": {
+        "item": "minecraft:tuff",
+        "count": 16
+    },
+    "group": "Tuff"
+}

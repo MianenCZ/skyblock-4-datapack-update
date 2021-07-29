@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "#G#",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:vine"
+        },
+        "G": {
+            "item": "minecraft:glow_ink_sac"
+        }
+    },
+    "result": {
+        "item": "minecraft:glow_lichen",
+        "count": 8
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#C#",
+        "CMC",
+        "#C#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:stone"
+        },
+        "C": {
+            "item": "minecraft:cobblestone"
+        },
+        "M": {
+            "item": "minecraft:magma_block"
+        }
+    },
+    "result": {
+        "item": "minecraft:tuff",
+        "count": 16
+    },
+    "group": "Tuff"
+}

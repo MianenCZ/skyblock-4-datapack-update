@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#P#",
+        "PBP",
+        "#P#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:big_dripleaf"
+        },
+        "P": {
+            "item": "minecraft:pink_dye"
+        },
+        "B": {
+            "item": "minecraft:birch_leaves"
+        }
+    },
+    "result": {
+        "item": "minecraft:spore_blossom",
+        "count": 1
+    },
+    "group": "Spore"
+}
