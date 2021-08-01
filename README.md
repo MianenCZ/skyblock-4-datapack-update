@@ -9,6 +9,18 @@ For downloading just download lates release of this extension as `CraftingUpdate
 
 ## Change log
 
+### `4.09.1.2` compatible with Skyblock `4.09.1`
+
+#### Added recipes
+ - 1 `cobweb` from 5 `string`
+ - 1 `dead_bush` from 4 `stick` and 1 `slime_ball`
+ - 4 `sweet_berries` from 6 `vine` and 1 `glowstone_dust`
+ - 4 `glow_berries` from 6 `vine` and 3 `sugar`
+
+#### Loot table added
+ - `elder_guardian` now drops `heart_of_the_sea` 
+
+
 ### `4.09.1.1` compatible with Skyblock `4.09.1`
 
 #### Added recipes

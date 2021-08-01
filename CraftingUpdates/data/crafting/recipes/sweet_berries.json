@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#S#",
+        "#S#",
+        "#S#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:vine"
+        },
+        "S": {
+            "item": "minecraft:sugar"
+        }
+    },
+    "result": {
+        "item": "minecraft:sweet_berries",
+        "count": 4
+    }
+}
